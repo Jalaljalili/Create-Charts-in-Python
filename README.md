@@ -12,3 +12,6 @@ python -m pip install squarify
 pip install matplotlib
 pip install squarify
 ```
+## License
+
+[Coding](https://www.clcoding.com/)
