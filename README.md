@@ -2,12 +2,13 @@
 
 Create Contour lines, Hexabins, Treemaps and 2D Histogram
 
-## Install necessary packages in Window
+## Install necessary packages 
+* If you don't have pip in your PATH environment variable
 ```python
 python -m pip install matplotlib
 python -m pip install squarify
 ```
-## Install necessary packages in Linux
+* In a virtual environment or using Python 2
 ```python
 pip install matplotlib
 pip install squarify
