@@ -13,7 +13,7 @@ python -m pip install yfinance
 ```python
 pip install matplotlib
 pip install squarify
- pip install yfinance
+pip install yfinance
 ```
 ## License
 
